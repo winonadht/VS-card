@@ -1,2 +1,2 @@
-# VS-card
+# V-card
 carte de visite personnelle
